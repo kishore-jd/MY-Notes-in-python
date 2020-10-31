@@ -1,0 +1,9 @@
+Machine learningana
+****************
+Computer Vision uses various 
+machine learning algorithms to achieve different things. OpenCV provides a module called ml that
+has many machine learning algorithms bundled into it. Some of the algorithms include Bayes Classifier,
+K-Nearest Neighbors, Support Vector Machines, Decision Trees, Neural Networks, and so on.
+It also has a module called flann that contains algorithms for fast-nearest-neighbor searches in large
+datasets. Machine learning algorithms are used extensively to build systems 
+for object recognition, image classification, face detection, visual searches, and so on.
